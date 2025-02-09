@@ -4,7 +4,8 @@
 
 http://localhost:8080/
 
-
+実行ファイル
+\src\main\java\com\example\library\LibraryManagementSystemApplication.java
 
 ・ユーザー
 管理者ユーザー admin 
